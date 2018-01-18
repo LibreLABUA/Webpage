@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on LibreLAB Universidad de Alicante</title>
+    <link>http://librelab.dmester.xyz/categories/misc/</link>
+    <description>Recent content in Misc on LibreLAB Universidad de Alicante</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>LibreLABUA</copyright>
+    <lastBuildDate>Thu, 05 Nov 2015 16:58:58 -0500</lastBuildDate>
+    
+	<atom:link href="http://librelab.dmester.xyz/categories/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>http://librelab.dmester.xyz/about/</link>
+      <pubDate>Thu, 05 Nov 2015 16:58:58 -0500</pubDate>
+      
+      <guid>http://librelab.dmester.xyz/about/</guid>
+      <description>Somos un grupo de estudiantes de la Universidad de Alicante con el objetivo de compartir conocimiento para abarcar el mayor número de ramas de la informática. Con nosotros podrás tratar todos los temas. Todos somos diferentes, y eso es lo que nos hace únicos.</description>
+    </item>
+    
+  </channel>
+</rss>

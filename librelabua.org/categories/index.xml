@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on LibreLAB Universidad de Alicante</title>
+    <link>http://librelab.dmester.xyz/categories/</link>
+    <description>Recent content in Categories on LibreLAB Universidad de Alicante</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>LibreLABUA</copyright>
+    
+	<atom:link href="http://librelab.dmester.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Misc</title>
+      <link>http://librelab.dmester.xyz/categories/misc/</link>
+      <pubDate>Thu, 05 Nov 2015 16:58:58 -0500</pubDate>
+      
+      <guid>http://librelab.dmester.xyz/categories/misc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

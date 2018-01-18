@@ -1,0 +1,13 @@
+# HTTP Port
+PlainPort = ":80"
+
+# HTTPS Port
+SSLPort = ":443"
+
+Log = "./server.log"
+
+[[Domains]]
+Name = "librelabua.org"
+Path = "./librelabua.org/"
+Certificate = "/etc/certs/librelabua.org/fullchain.pem"
+PrivateKey = "/etc/certs/librelabua.org/privkey.pem"
