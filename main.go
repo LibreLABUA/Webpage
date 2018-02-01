@@ -58,6 +58,7 @@ func main() {
 		Addr:    config.Port,
 		Handler: &Handler{},
 	}
+	http2.ConfigureServer(&srv, nil)
 
 	go srv.ListenAndServe()
 	defer srv.Close()
